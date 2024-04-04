@@ -1,4 +1,4 @@
-var video = document.querySelector("video");
+var video = document.querySelector("marchingband.mov");
 
 window.addEventListener("load", function() {
 	console.log("Good job opening the window")
